@@ -1,0 +1,17 @@
+Wechselrichter Logdaten
+Wechselrichter Nr:	255
+Name:	Namenlos
+akt. Zeit:	1292265062
+
+Logdaten U[V], I[mA], P[W], E[kWh], F[Hz], R[kOhm], Ain T[digit], Zeit[sec]
+Zeit	DC1 U	DC1 I	DC1 P	DC1 T	DC1 S	DC2 U	DC2 I	DC2 P	DC2 T	DC2 S	DC3 U	DC3 I	DC3 P	DC3 T	DC3 S	AC1 U	AC1 I	AC1 P	AC1 T	AC2 U	AC2 I	AC2 P	AC2 T	AC3 U	AC3 I	AC3 P	AC3 T	AC F	FC I	Ain1	Ain2	Ain3	Ain4	AC S	Err	ENS S	ENS Err	KB S	total E	Iso R	Ereignis
+1262304000																																									POR
+1262304031																																									POR
+1262304000																																									POR
+1262304000																																									POR
+1262627033																																									POR
+1283005908																																									POR
+1283005977																																						C0000000h	        0	65535
+1283006808	    416	   2386	    991	25883	16397	    416	   2900	   1193	25954	49162	      0	     13	      0	62489	    3	    230	   3025	    684	26198	    231	   3014	    682	26812	    231	   3023	    686	27046	 49.9	    0	    0	    0	    0	    0	         28	    0	  3	    0
+1283007600	    413	   3579	   1481	21591	16393	    413	   3278	   1355	22270	49162	      0	      6	      0	62560	    3	    231	   3879	    894	22209	    232	   3862	    890	22778	    232	   3873	    894	23197	 50.0	    0	    0	    0	    0	    0	         28	    0	  3	    0
+1283008500	    418	   3115	   1306	20545	16393	    418	   1874	    788	21920	49162	      0	      3	      0	62610	    3	    229	   2921	    659	21556	    231	   2908	    656	22151	    230	   2915	    658	22604	 50.0	    0	    0	    0	    0	    0	         28	    0	  3	    0
